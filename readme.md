@@ -1,4 +1,9 @@
-# Three.js Journey
+# Haunted House
+
+Project of [Three.js Journey](https://threejs-journey.com/).
+
+<img src="https://media.giphy.com/media/6UYfFolmQnhblM8uoA/giphy.gif" alt="haunted house animation" />
+
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
